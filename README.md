@@ -1,2 +1,7 @@
-# HellDivers-CheatMenu
-Knightcloud | Cheat menu For helldivers 2, currently supports rapidfire, infinite ammo, infinite health and more
+### Default Hotkeys
+- Show Menu - DELETE
+
+## Screenshot
+<p align="center">
+   <img src="screenshot.png">
+</p>
