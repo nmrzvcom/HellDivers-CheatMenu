@@ -3,5 +3,5 @@
 
 ## Screenshot
 <p align="center">
-   <img src="screenshot.png">
+  <img  align="center" src="https://github.com/nmrzvcom/HellDivers-CheatMenu/releases/download/Helldivers-cheat-menu/sc.jpg" height="512"></h1>
 </p>
